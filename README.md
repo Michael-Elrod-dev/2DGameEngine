@@ -13,11 +13,6 @@ SDL2 Version: SDL2 2.0.16
 Lua Version: Lua 5.4.4  
 Environment: Microsoft Visual Studio
 
-## How to play
-1. Download the full repository
-2. Make sure you have the software versions listed above
-3. Compile and run the program.
-
 ## Motivation
 This game engine was my first major project, crafted with the purpose of honing my programming and software engineering skills. The creation of this game engine allowed me to understand the intricacies of developing large, user-focused systems. Building it from scratch, I grasped the challenges and solutions in making a complex system come together to provide a good experience for the end-user.
 
