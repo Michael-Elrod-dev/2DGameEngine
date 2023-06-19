@@ -14,7 +14,7 @@ Lua Version: Lua 5.4.4
 Environment: Microsoft Visual Studio
 
 ## How To Play
-You can download the test game I created for this engine [HERE](https://drive.google.com/file/d/1Zar7DEuZkpvbqdR2kgMW2XQU7Cn3uRYz/view?usp=sharing)
+You can download the test game I created for this engine [HERE](https://drive.google.com/file/d/1Zar7DEuZkpvbqdR2kgMW2XQU7Cn3uRYz/view?usp=sharing).
 
 ## Motivation
 This game engine was my first major project, crafted with the purpose of honing my programming and software engineering skills. The creation of this game engine allowed me to understand the intricacies of developing large, user-focused systems. Building it from scratch, I grasped the challenges and solutions in making a complex system come together to provide a good experience for the end-user.
