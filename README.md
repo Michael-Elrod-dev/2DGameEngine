@@ -58,4 +58,4 @@ Logger.cpp is used for debug logging, which helps in tracking the flow and state
 While the game engine is quite versatile in its current state, it can be improved by adding more generic components, systems, and expanding the variety of games that can be created. It could also be optimized for better performance, and additional tools could be developed to aid in creating game levels and scripting game logic.
 
 ## Contributions
-I referenced several libraries, online resources, and Pikuma to learn about ECS, SDL2, Lua integration and other game development topics. Special thanks to the creators of SDL, glm, imgui, sol, and Lua.
+Along with a course from Pikuma, I referenced several libraries and online resources to learn about ECS, SDL2, Lua integration and other game development topics. Special thanks to the creators of SDL, glm, imgui, sol, and Lua.
